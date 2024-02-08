@@ -1,0 +1,32 @@
+sort1 uses: Bubble Sort
+
+How do you know?: it performs fast enough on omega sorted list.
+
+sort2 uses: Merge Sort
+
+How do you know?: Because it performs as the fastest algorithm.
+
+sort3 uses: Selection Sort
+
+How do you know?: it is the only algorithm left, also the time on O and Omega was close enough
+
+
+random
+
+sort1: 0.106
+sort2: 0.014
+sort3: 0.049
+
+
+reversed
+
+sort1: 0.141
+sort2: 0.010
+sort3: 0.036
+
+
+sorted
+
+sort1: 0.015
+sort2: 0.012
+sort3: 0.089

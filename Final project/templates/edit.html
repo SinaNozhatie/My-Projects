@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Task</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1 class="mt-4">Edit Task</h1>
+
+        <form action="{{ url_for('update_task', task_id=task['id']) }}" method="post" class="mb-4">
+            <div class="form-group">
+                <label for="title">Title:</label>
+                <input type="text" name="title" value="{{ task['title'] }}" class="form-control" required>
+            </div>
+
+            <div class="form-group">
+                <label for="description">Description:</label>
+                <input type="text" name="description" value="{{ task['description'] }}" class="form-control" required>
+            </div>
+
+            <div class="form-group">
+                <label for="status">Status:</label>
+                <select name="status" class="form-control">
+                    <option value="To Do" {% if task['status'] == 'To Do' %}selected{% endif %}>To Do</option>
+                    <option value="In Progress" {% if task['status'] == 'In Progress' %}selected{% endif %}>In Progress</option>
+                    <option value="Done" {% if task['status'] == 'Done' %}selected{% endif %}>Done</option>
+                </select>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Update Task</button>
+        </form>
+    </div>
+</body>
+</html>

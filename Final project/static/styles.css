@@ -1,0 +1,26 @@
+/* Add your custom styles here */
+body {
+    padding: 20px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.btn-edit,
+.btn-delete {
+    margin-left: 10px;
+}
