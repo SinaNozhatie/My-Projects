@@ -42,5 +42,8 @@ Thank you for your attention!
  **پروژه های Flask **: این بخش شامل تمام پروژه‌هایی است که با استفاده از چارچوب Flask در زبان Python توسعه داده شده‌اند.
 
 </div>
+## پروژه اصلی
+اینپروژه همواره درحال بروزرسانی و توسعه هست میتونید بهش سر بزنید
+[لینک پروژه اصلی](https://github.com/SinaNozhatie/My-Projects/tree/main/Final%20project)
 
 با تشکر از توجه شما!
