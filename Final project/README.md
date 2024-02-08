@@ -2,7 +2,6 @@
 
 ## English
 # Task Tracker
-#### Video Demo: <https://youtu.be/DhQbTo3qA8M>
 #### Description:
 
 Task Tracker is an invaluable web-based application meticulously crafted to empower users in the efficient management of their tasks. This lightweight project stands out for its user-friendly interface, facilitating the seamless addition, editing, and deletion of tasks. Each task is endowed with a title, a detailed description, and a status indicator, offering users the flexibility to categorize their tasks into various states such as "To Do," "In Progress," or "Done."
@@ -17,8 +16,6 @@ The application's versatility extends beyond its fundamental features. Users can
 - **Delete Task:** Remove tasks that are no longer needed.
 - **View Tasks:** A clear list view displays all tasks with their respective details.
 
-## Video Demo:
-[https://youtu.be/DhQbTo3qA8M]
 
 ## How to Use:
 1. **Setup:**
@@ -61,7 +58,6 @@ Feel free to contribute, share, or customize Task Tracker based on your requirem
 
 ## فارسی
 # ردیاب کار
-#### ویدیوی دمو: <https://youtu.be/DhQbTo3qA8M>
 #### توضیحات:
 
 ردیاب کار، یک برنامه وب بی‌نظیر است که با دقت طراحی شده است تا کاربران را در مدیریت بهینه کارهایشان تقویت کند. این پروژه سبک، با رابط کاربری دوستانه خود، امکان اضافه کردن، ویرایش و حذف کارها را به صورت بی‌درنگ فراهم می‌کند. هر کار به عنوان یک عنوان، توضیحات دقیق و یک نشانگر وضعیت ارائه شده است، که به کاربران امکان می‌دهد که کارهای خود را به وضعیت‌های مختلفی مانند "انجام نشده"، "در حال انجام" یا "انجام شده" دسته‌بندی کنند.
@@ -75,9 +71,6 @@ Feel free to contribute, share, or customize Task Tracker based on your requirem
 - **ویرایش کار:** ویرایش کارهای موجود برای به‌روزرسانی جزئیات یا تغییر وضعیت آن‌ها.
 - **حذف کار:** حذف کارهایی که دیگر نیازی به آن‌ها نیست.
 - **مشاهده کارها:** مشاهده ویژگی‌های همه کارها به صورت واضح.
-
-## ویدیوی دمو:
-[https://youtu.be/DhQbTo3qA8M]
 
 ## چگونگی استفاده:
 1. **راه‌اندازی:**
