@@ -1,5 +1,5 @@
 # پروژه‌های شخصی من | My Personal Projects
-[English](#english) | [فارسی](#فارسی)
+[English](#English) | [فارسی](#فارسی)
 
 ## English 
 
