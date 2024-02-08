@@ -1,7 +1,7 @@
 # پروژه‌های شخصی من | My Personal Projects
 [English](#english) | [فارسی](#فارسی)
 
-##English Introduction
+## English 
 
 # Exercise Projects
 
@@ -28,7 +28,7 @@ To install each project, please navigate to the folder of each project and follo
 Thank you for your attention!
 <!-- فارسی -->
 
-## ـوضیحات #فارسی
+## فارسی
 
 # پروژه‌های تمرینی
 
