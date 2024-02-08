@@ -19,11 +19,6 @@ This repository contains all the small and large projects I have done for practi
 
 - **Flask Projects**: This section includes all projects developed using the Flask framework in Python.
 
-## Installation Instructions
-
-To install each project, please navigate to the folder of each project and follow the respective installation instructions.
-
-**Note:** Before running each project, you may need to install packages or perform specific configurations. Please carefully read the instructions provided in each project and proceed with the installation and execution accordingly.
 
 Thank you for your attention!
 <!-- فارسی -->
@@ -37,21 +32,15 @@ Thank you for your attention!
 ## محتوای پروژه‌ها
 <div style="text-align: right;">
 
- **C Projects**: این بخش شامل تمام پروژه‌هایی است که با استفاده از زبان برنامه‌نویسی C نوشته شده‌اند.
+ **پروژه های C**: این بخش شامل تمام پروژه‌هایی است که با استفاده از زبان برنامه‌نویسی C نوشته شده‌اند.
   
  **Python Projects**: در این بخش، پروژه‌هایی که با استفاده از زبان برنامه‌نویسی Python نوشته شده‌اند، قرار دارند.
 
- **jQuery & JavaScript Projects**: این قسمت شامل پروژه‌هایی است که با استفاده از jQuery و JavaScript توسعه داده شده‌اند.
+ **پروژه های jQuery & JavaScript **: این قسمت شامل پروژه‌هایی است که با استفاده از jQuery و JavaScript توسعه داده شده‌اند.
 
- **HTML & CSS Projects**: در این بخش، پروژه‌هایی که با استفاده از HTML و CSS پیاده‌سازی شده‌اند، قرار دارند.
- **Flask Projects**: این بخش شامل تمام پروژه‌هایی است که با استفاده از چارچوب Flask در زبان Python توسعه داده شده‌اند.
+ **پروژه های HTML & CSS **: در این بخش، پروژه‌هایی که با استفاده از HTML و CSS پیاده‌سازی شده‌اند، قرار دارند.
+ **پروژه های Flask **: این بخش شامل تمام پروژه‌هایی است که با استفاده از چارچوب Flask در زبان Python توسعه داده شده‌اند.
 
 </div>
-
-## نحوه نصب
-
-برای نصب هر یک از پروژه‌ها، لطفاً به داخل فولدر هر پروژه مراجعه کرده و دستورالعمل‌های نصب مربوطه را دنبال کنید.
-
-**توجه:** قبل از اجرای هر پروژه، ممکن است نیاز به نصب بسته‌ها یا تنظیمات خاصی باشد. لطفاً به دقت دستورالعمل‌های موجود در هر پروژه را مطالعه کرده و اقدام به نصب و اجرای آن نمایید.
 
 با تشکر از توجه شما!
