@@ -24,9 +24,9 @@ This repository contains all the small and large projects that I have worked on 
     - Languages Used: Python, Flask
     - ...
     - ...
-
+<!-- فارسی -->
+[English](#english) | [فارسی](#فارسی)
 ## فارسی
-[English](#English)
 
 این مخزن شامل تمام پروژه‌های کوچک و بزرگی است که من برای تمرین و بهبود مهارت‌هایم در زبان‌های مختلف انجام داده‌ام.
 
