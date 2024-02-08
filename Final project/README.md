@@ -1,6 +1,6 @@
 [English](#English) | [فارسی](#فارسی)
 
-#English
+## English
 # Task Tracker
 #### Video Demo: <https://youtu.be/DhQbTo3qA8M>
 #### Description:
@@ -59,7 +59,7 @@ Feel free to contribute, share, or customize Task Tracker based on your requirem
 
 
 
-#فارسی
+## فارسی
 # ردیاب کار
 #### ویدیوی دمو: <https://youtu.be/DhQbTo3qA8M>
 #### توضیحات:
